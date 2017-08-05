@@ -8,3 +8,6 @@
   * [Introdução à linguagem de programação Elixir - CBK Software](https://www.youtube.com/watch?v=7eYA8c8yABU)
   
   * [The Elixir of Life por Fabio Akita - DevInSantos 2015](https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
+
+# Podcasts
+  * [Elixir, a linguagem hipster – Hipsters #48](http://hipsters.tech/elixir-a-linguagem-hipster-hipsters-48/)
