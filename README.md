@@ -7,4 +7,4 @@
 
   * [Introdução à linguagem de programação Elixir - CBK Software](https://www.youtube.com/watch?v=7eYA8c8yABU)
   
-  * [The Elixir of Life por Fabio Akita - DevInSantos 2015]((https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
+  * [The Elixir of Life por Fabio Akita - DevInSantos 2015](https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
