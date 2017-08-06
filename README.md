@@ -11,4 +11,4 @@
 
 # Podcasts
   * [Elixir, a linguagem hipster – Hipsters #48](http://hipsters.tech/elixir-a-linguagem-hipster-hipsters-48/)
-  * [Grok Podcast, Série sobre elixir](http://www.grokpodcast.com/series/elixir/)
+  * [Grok Podcast, Série sobre Elixir](http://www.grokpodcast.com/series/elixir/)
