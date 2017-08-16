@@ -1,5 +1,7 @@
 # Material de estudo sobre Elixir em português
 
+# Textos
+  * [Elixir School - Lições sobre a linguagem de programação Elixir](https://elixirschool.com/pt/)
 # Vídeos
   * [Coders on Beer - Dojo Elixir - Parte 1](https://www.youtube.com/watch?v=G5I-a8bbNjM)
 
