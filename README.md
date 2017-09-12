@@ -10,6 +10,7 @@
   * [Introdução à linguagem de programação Elixir - CBK Software](https://www.youtube.com/watch?v=7eYA8c8yABU)
   * [The Elixir of Life por Fabio Akita - DevInSantos 2015](https://www.youtube.com/watch?v=8Ng6TfAj7Sk)
   * [Seja um Alquimista! Aprenda Elixir. sessão 2 - Cevado](https://www.youtube.com/watch?v=VSchxIVH5dU)
+  * [Ecto, você sabe o que é? - Amanda Sposito](https://www.youtube.com/watch?v=hQM4VdEpz6g)
 
 # Podcasts
 
